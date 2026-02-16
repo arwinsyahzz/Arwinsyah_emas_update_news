@@ -10,7 +10,7 @@ try:
 except:
     PLOTLY_AVAILABLE = False
 
-from news_berita import BeritaEmas
+# from news_berita import BeritaEmas
 from price_alert import PriceAlert
 from operasi_schedule import OperasiSchedule
 from operasi_schedule import OperasiSchedule
@@ -796,5 +796,6 @@ with col2:
     st.markdown("**Last Update:** 2026-02-08")
 with col3:
     st.markdown("**Version:** 2.0 Pro Edition")
+
 
 
