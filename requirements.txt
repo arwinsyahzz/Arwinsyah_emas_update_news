@@ -1,4 +1,6 @@
 streamlit
-ollama
-duckduckgo_search
-certifi
+pandas
+requests
+plotly
+beautifulsoup4
+lxml
